@@ -1,0 +1,3 @@
+FROM index.alauda.cn/library/centos:latest
+MAINTAINER mark "kevin.zwf@gmail.com"
+RUN yum update
